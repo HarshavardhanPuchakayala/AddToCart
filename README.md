@@ -1,7 +1,4 @@
-# AddToCart
-Certainly! Here's a description of your project that you can use to share on LinkedIn and GitHub:
-
----
+# AddToCart 🛒
 
 🛒 **Introducing AddToCart: Your Smart Grocery Shopping Companion!** 🛒
 
