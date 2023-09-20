@@ -4,8 +4,6 @@
 
 Are you tired of forgetting items while grocery shopping or ending up with duplicate purchases? Say goodbye to those shopping woes with **AddToCart**, a user-friendly web app that simplifies your grocery list management and makes your shopping trips more efficient.
 
-🛒 Introducing AddToCart, a user-friendly web application designed to simplify your shopping experience and keep your grocery list organized in real-time.
-
 📝 Effortless List Creation: 
 With Grocery List Manager, users can easily create and manage their grocery lists. Simply input your desired items, quantities, and categories, and your shopping list is ready to go!
 
