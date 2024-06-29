@@ -24,3 +24,5 @@ Your data is kept safe and private with Firebase's robust security features. You
 
 ![image](https://github.com/HarshavardhanPuchakayala/AddToCart/assets/85436195/5e84f0f3-3ee0-4cfe-8776-05ade69fd501)
 
+[![DeepScan grade](https://deepscan.io/api/teams/24296/projects/27501/branches/879782/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=24296&pid=27501&bid=879782)
+
